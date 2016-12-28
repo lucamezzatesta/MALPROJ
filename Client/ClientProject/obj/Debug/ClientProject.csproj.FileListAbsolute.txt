@@ -1,0 +1,429 @@
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\Client ProssimaVersione\2.3\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\Client ProssimaVersione\3.0\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\3.0\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\3.0\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\5.0\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\5.6\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\5.6\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\5.6\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\5.6\5.6\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\5.6\5.6\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\5.6\5.6\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\6.7\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\6.7\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\6.7\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.baml
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.baml
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\2\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\Client ProssimaVersione\7.4\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\7.4\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\7.4\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\8.4\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\8.4\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\8.4\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.6\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowInfo.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\WindowInfo.baml
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\8.8\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\Server\ServerView.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowBadConnection.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowInfo.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowNoServer.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\App.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.cache
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject_MarkupCompile.lref
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\Application\ApplicationView.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\MainWindow.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\Server\ServerView.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowBadConnection.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowIndirizzoDuplicato.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowIndirizzoSbagliato.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowInfo.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowNoAppSelected.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowNoKeyInserted.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowNoServer.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\WindowServerInterrupt.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject.g.resources
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\Chiara\Desktop\Client ProssimaVersione\9.8 instabile\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.Cache
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowInfo.g.cs
+C:\Users\Chiara\Desktop\PDS\Progetto\Progetto\Progetto\ClientProject\ClientProject\obj\Debug\WindowInfo.baml
+C:\Users\Chiara\Desktop\Client ProssimaVersione\10.0\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\Chiara\Desktop\Client ProssimaVersione\10.0\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\Chiara\Desktop\Client ProssimaVersione\10.0\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
